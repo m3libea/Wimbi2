@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/73llknjwkjczrglkf2x/!svn/ver/154/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/persistence/mysql
+END
+UserRepositoryMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/persistence/mysql/UserRepositoryMySQL.java
+END
+PlaylistRepositoryMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/persistence/mysql/PlaylistRepositoryMySQL.java
+END
+SongRepositoryMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/persistence/mysql/SongRepositoryMySQL.java
+END

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+
+	<!-- Servlets -->
+	<servlet>
+		<servlet-name>userServlet</servlet-name>
+		<servlet-class>isw2.rrmasg.presentation.server.service.UserServiceServletImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>songServlet</servlet-name>
+		<servlet-class>isw2.rrmasg.presentation.server.service.SongServiceServletImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>playlistServlet</servlet-name>
+		<servlet-class>isw2.rrmasg.presentation.server.service.PlaylistServiceServletImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>singInTwitterServlet</servlet-name>
+		<servlet-class>isw2.rrmasg.presentation.server.servlet.twitter.SingInTwitterServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>callbackTwitterServlet</servlet-name>
+		<servlet-class>isw2.rrmasg.presentation.server.servlet.twitter.CallbackTwitterServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet-mapping>
+		<servlet-name>callbackTwitterServlet</servlet-name>
+		<url-pattern>/wimbi/twitterLogin</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>singInTwitterServlet</servlet-name>
+		<url-pattern>/wimbi/twitterAuth</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>userServlet</servlet-name>
+		<url-pattern>/wimbi/user</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>songServlet</servlet-name>
+		<url-pattern>/wimbi/song</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>playlistServlet</servlet-name>
+		<url-pattern>/wimbi/playlist</url-pattern>
+	</servlet-mapping>
+
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>Wimbi.html</welcome-file>
+	</welcome-file-list>
+
+</web-app>

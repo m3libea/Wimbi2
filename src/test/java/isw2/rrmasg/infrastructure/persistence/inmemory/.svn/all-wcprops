@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/73llknjwkjczrglkf2x/!svn/ver/100/7%20-%20Presentacion%20-%20Wimbi/src/test/java/isw2/rrmasg/infrastructure/persistence/inmemory
+END
+UserRepositoryInMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/test/java/isw2/rrmasg/infrastructure/persistence/inmemory/UserRepositoryInMem.java
+END
+PlaylistRepositoryInMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/test/java/isw2/rrmasg/infrastructure/persistence/inmemory/PlaylistRepositoryInMem.java
+END
+SongRepositoryInMem.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/test/java/isw2/rrmasg/infrastructure/persistence/inmemory/SongRepositoryInMem.java
+END

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='wimbi'>
+	<!-- Inherit the core Web Toolkit stuff. -->
+	<inherits name='com.google.gwt.user.User' />
+
+	<!-- Inherit the default GWT style sheet. You can change -->
+	<!-- the theme of your GWT application by uncommenting -->
+	<!-- any one of the following lines. -->
+<!-- 	<inherits name='com.google.gwt.user.theme.clean.Clean'/> -->
+	<inherits name='com.google.gwt.user.theme.standard.Standard' />
+	<stylesheet src="../Wimbi.css" />
+	<stylesheet src="../buttons/social/social_buttons.css"/>
+	<stylesheet src="../buttons/general/stylesheets/css3buttons.css"/>
+	<inherits name="com.google.gwt.place.Place"/>
+	<inherits name="com.google.gwt.activity.Activity"/>
+	<!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
+	<!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/> -->
+
+	<!-- Other module inherits -->
+
+	<!-- Specify the app entry point class. -->
+	<entry-point class='isw2.rrmasg.presentation.client.Wimbi' />
+
+	<!-- Specify the paths for translatable code -->
+	<source path='client' />
+	<source path='shared' />
+
+</module>

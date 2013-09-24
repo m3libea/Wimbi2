@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/73llknjwkjczrglkf2x/!svn/ver/155/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter
+END
+LoginPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/LoginPresenter.java
+END
+SearchPlaylistPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/73llknjwkjczrglkf2x/!svn/ver/154/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/SearchPlaylistPresenter.java
+END
+NewUserPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/NewUserPresenter.java
+END
+SearchSongPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/73llknjwkjczrglkf2x/!svn/ver/158/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/SearchSongPresenter.java
+END
+Presenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/73llknjwkjczrglkf2x/!svn/ver/95/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/Presenter.java
+END
+PruebaPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/PruebaPresenter.java
+END
+PlaylistPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/PlaylistPresenter.java
+END
+EditUserPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/EditUserPresenter.java
+END
+SongPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/SongPresenter.java
+END
+ListOfPlaylistPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/73llknjwkjczrglkf2x/!svn/ver/159/7%20-%20Presentacion%20-%20Wimbi/src/main/java/isw2/rrmasg/presentation/client/presenter/ListOfPlaylistPresenter.java
+END
