@@ -1,0 +1,3 @@
+Development of an improved version of Wimbi project for an enterprise Java web applications college course. This time I used J2EE for the backend with a JPA and Hibernate persistence layer in top of a MySQL database. I also implemented extensive test scenarios using JUnit test framework. On the frontend side I used GWT (Google Web Toolkit) and the MVP design pattern talking to the backend through RPC services so all the layers were loosely coupled. Finally, our frontend view was implemented in HTML5 and CSS3 to make it look great. The build lifecycle was managed with Maven and code submission and tracking was achieved using Subversion version control system.
+
+Created by Abel Sayago and Rocío Romero
